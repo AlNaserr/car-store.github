@@ -234,6 +234,7 @@ section{
     color:var(--black);
     font-size: 7.5vw;
     text-transform: uppercase;
+    background-color: #f7fa46;
 }
 
 .home img{
@@ -463,7 +464,7 @@ pojoijoi
     display: inline-block;
     top: 60%;
     left: -40px;
-    width: 10px;
+    width: 15px;
     height: 10px;
     border-radius: 50%;
     background: rgb(248, 181, 35);
